@@ -1,11 +1,7 @@
 node_modules/
-npm-debug.log*
 .env
 .env.local
-.DS_Store
-dist/
-build/
-backend/data/
+data/
 logs/
-.vscode/
-.idea/
+*.log
+.DS_Store
